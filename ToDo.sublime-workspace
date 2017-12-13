@@ -1,0 +1,389 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Жетон/Desktop/ToDo_JS_final.js",
+			"settings":
+			{
+				"buffer_size": 3623,
+				"encoding": "UTF-8",
+				"line_ending": "Windows",
+				"name": "var todoList = {"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 776,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "ToDo_objects.js",
+			"settings":
+			{
+				"buffer_size": 728,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "Три книги Михаила Карпова — менеджера по продукту во ВКонтакте:\n📚«Заразительный», Йона Бергер.\nПочему одни продукты взлетают, а другие нет? Почему об одних мы говорим и много, а другие обходят нас стороной? Откуда этот феномен «сарафанного радио» и как его использовать для себя в продуктовой истории.\n📚«Об интерфейсе», Алан Купер.\nКогда-то эта книга была революционной, в своем первом издании. Вся идея была в том, чтобы проектировать продукты исходя из целей людей, а не «потому что потому». Кроме того, вся книга насквозь практична: каждый принцип проектирования взаимодействия подробно разбирается. В этом-то и ценность.\n📚«Покупатель на крючке», Нир Эяль.\nКак продукт может сформировать привычку его использования? Как понять, понравится ли пользователю наша идея? Какие инструменты помогут добиться успеха, на примере Пинтерест, Твиттера и Инстаграма. Эта книга рассказывает доступно, понятно и полезно о том, что такое поведение потребителя и как его использовать.\nТри книги Микаэла Гелецяна — менеджера по продукту в «Детском мире»:\n📚«Inspired», Marty Cagan. \nКнига-вдохновение, потому что она раскладывает по полочкам все, что происходит с продакт-менеджером, что он должен уметь, кем быть и какими навыками обладать. Какие возможности продукта реально важны, а на что можно иногда «забить». И самое важное, что же надо сделать, чтобы твой проект люди реально полюбили, а не забыли и выбросили на помойку.\n📚«Lean Analytics», Alistair Croll.\nПродуктовая аналитика? Не, не слышал. Отличная книга для тех, кто хочет начать понимать что, куда и зачем, почему. Аналитика помогает понять, как сделать продукт лучше, более эффективным и монетизируемым. Без подтверждения числами — чаще всего идея обречена на провал.\n📚«Думай медленно, решай быстро», Даниэль Канеман.\nКак мыслят люди и как это использовать. Какие систематические ошибки есть, как действует мышление. Отличная книга для продакта, чтобы обернуть человечество на пользу продукту.",
+			"settings":
+			{
+				"buffer_size": 1943,
+				"line_ending": "Windows",
+				"name": "Три книги Михаила Карпова — менеджера по продукту"
+			}
+		},
+		{
+			"contents": "var zheton = {\n\tname: 'Zheton',\n\tsayName: function() {\n\t\tconsole.log(this); //returns object itself\n\t}\n}\n\nvar zheton = {\n\tname: 'Zheton',\t\t\t\t//property\n\tsayName: function() {\t\t//method\n\t\tconsole.log(this.name); //returns defined property (method)\n\t}\n}\n",
+			"file": "/C/Users/Жетон/Desktop/objects.js",
+			"file_size": 265,
+			"file_write_time": 131541365082710818,
+			"settings":
+			{
+				"buffer_size": 252,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"git",
+				"Git: Init"
+			],
+			[
+				"",
+				"Package Control: Install Package"
+			],
+			[
+				"sear",
+				"Zeal: Search"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			]
+		],
+		"width": 428.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+			"install package Zeal",
+			"install package",
+			"zheton.sayName()",
+			"zheton.sayName",
+			"displayTodos()"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Жетон/Desktop/ToDo"
+	],
+	"file_history":
+	[
+		"/C/Users/Жетон/Desktop/ToDo/ToDo.sublime-project",
+		"/C/Users/Жетон/Desktop/ToDo_JS.js",
+		"/C/Users/Жетон/Desktop/ToDo_objects.js"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Жетон/Desktop/ToDo_JS_final.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3623,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3623,
+								3623
+							]
+						],
+						"settings":
+						{
+							"auto_name": "var todoList = {",
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1530.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 776,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								776,
+								776
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "ToDo_objects.js",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 728,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1943,
+								1943
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Три книги Михаила Карпова — менеджера по продукту",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/Жетон/Desktop/objects.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 252,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								252,
+								252
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "ToDo.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 124.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
