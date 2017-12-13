@@ -12,7 +12,7 @@
    <!-- <button id="displayTodosButton">Display ToDos</button>
     <button id="toggleAllButton">Toggle all</button> -->
   <div>  
-    <button onclick="handlers.displayTodos()">Display Todos</button>
+   <!-- <button onclick="handlers.displayTodos()">Display Todos</button> -->
     <button onclick="handlers.toggleAll()">Toggle all</button>
   </div>  
   
@@ -26,6 +26,15 @@
     <input id="changeTodoPositionInput" type="number">
     <input id="changeTodoTextInput" type="text">
   </div>  
+  
+  <div>
+    <button onclick="handlers.toggleCompleted()">Toggle Completed</button>
+    <input id="toggleCompletedPositionInput" type="number">
+  </div>
+  
+  <ul>
+  </ul>
+  
     <script src="script.js"></script>
   </body>
 
