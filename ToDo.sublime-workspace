@@ -3,35 +3,54 @@
 	{
 		"selected_items":
 		[
+			[
+				"todo",
+				"todoList"
+			],
+			[
+				"to",
+				"todos"
+			],
+			[
+				"complet",
+				"completedTodos"
+			],
+			[
+				"com",
+				"completed"
+			],
+			[
+				"for",
+				"forEach"
+			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "/C/Users/Жетон/Desktop/ToDo_JS_final.js",
-			"settings":
-			{
-				"buffer_size": 3623,
-				"encoding": "UTF-8",
-				"line_ending": "Windows",
-				"name": "var todoList = {"
-			}
-		},
-		{
 			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 776,
+				"buffer_size": 952,
 				"encoding": "UTF-8",
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "ToDo_objects.js",
+			"file": "ToDo_JS_final.js",
 			"settings":
 			{
-				"buffer_size": 728,
-				"line_ending": "Windows"
+				"buffer_size": 3514,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "ToDo.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
 			}
 		},
 		{
@@ -63,16 +82,20 @@
 	"command_palette":
 	{
 		"height": 392.0,
-		"last_filter": "",
+		"last_filter": "git",
 		"selected_items":
 		[
 			[
 				"git",
-				"Git: Init"
+				"Github: Plugin Settings"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
 			],
 			[
 				"",
-				"Package Control: Install Package"
+				"Git: Init"
 			],
 			[
 				"sear",
@@ -116,6 +139,9 @@
 	],
 	"file_history":
 	[
+		"/C/Users/Жетон/Desktop/ToDo/COMMIT_EDITMSG.COMMIT_EDITMSG",
+		"/C/Users/Жетон/Desktop/ToDo_JS_final.js",
+		"/C/Users/Жетон/AppData/Roaming/Sublime Text 3/Packages/User/Github Tools.sublime-settings",
 		"/C/Users/Жетон/Desktop/ToDo/ToDo.sublime-project",
 		"/C/Users/Жетон/Desktop/ToDo_JS.js",
 		"/C/Users/Жетон/Desktop/ToDo_objects.js"
@@ -153,55 +179,24 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/C/Users/Жетон/Desktop/ToDo_JS_final.js",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 3623,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								3623,
-								3623
-							]
-						],
-						"settings":
-						{
-							"auto_name": "var todoList = {",
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 1530.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
 					"file": "index.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 776,
+						"buffer_size": 952,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								776,
-								776
+								539,
+								539
 							]
 						],
 						"settings":
@@ -216,12 +211,42 @@
 					"type": "text"
 				},
 				{
+					"buffer": 1,
+					"file": "ToDo_JS_final.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3514,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2471,
+								2471
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 990.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
 					"buffer": 2,
-					"file": "ToDo_objects.js",
+					"file": "ToDo.sublime-project",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 728,
+						"buffer_size": 45,
 						"regions":
 						{
 						},
@@ -234,9 +259,7 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -381,7 +404,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 124.0,
+	"side_bar_width": 56.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
